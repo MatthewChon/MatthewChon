@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 > search engine [[code]](https://github.com/MatthewHChon/searchengine)
 
 ### :open_file_folder: Table Of Content
-> **Portfolio** [[site]](https://MatthewHChon.github.io) [[code]](https://github.com/MatthewHChon/MatthewHChon.github.io)
+> **:arrow_forward: Portfolio** [[site]](https://MatthewHChon.github.io) [[code]](https://github.com/MatthewHChon/MatthewHChon.github.io)
 >
-> **Simulation And Modelling**
+> **:arrow_forward: Simulation And Modelling**
 >
 >  * Organizing Linked List [[code]](https://github.com/MatthewHChon/CS381_SimulationAndModelling/tree/main/Assignment1)
 >  * MM1 Queue [[code]](https://github.com/MatthewHChon/CS381_SimulationAndModelling/tree/main/Assignment2)
 >  * Monte Carlo [[code]](https://github.com/MatthewHChon/CS381_SimulationAndModelling/tree/main/Assignment3/montecarlo)
 >
-> **Search Engine** [[code]](https://github.com/MatthewHChon/searchengine)
+> **:arrow_forward: Search Engine** [[code]](https://github.com/MatthewHChon/searchengine)
