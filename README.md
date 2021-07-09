@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 ### :desktop_computer: Programming Language:
 > Java
+> HTML/CSS
 
 ### :octocat: Current Project:
-> search engine [[code]](https://github.com/MatthewHChon/searchengine)
+> Portfolio Page [[site]](https://MatthewHChon.github.io) [[code]](https://github.com/MatthewHChon/MatthewHChon.github.io)
 
 ### :open_file_folder: Table Of Content
 > **:arrow_forward: Portfolio** [[site]](https://MatthewHChon.github.io) [[code]](https://github.com/MatthewHChon/MatthewHChon.github.io)
