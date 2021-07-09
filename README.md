@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 >  * MM1 Queue [[code]](https://github.com/MatthewHChon/CS381_SimulationAndModelling/tree/main/Assignment2)
 >  * Monte Carlo [[code]](https://github.com/MatthewHChon/CS381_SimulationAndModelling/tree/main/Assignment3/montecarlo)
 >
-> **:arrow_forward: Search Engine** [[code]](https://github.com/MatthewHChon/searchengine)
