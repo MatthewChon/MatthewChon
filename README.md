@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 # Matthew's Profile Page
 
+![](https://github-readme-stats.vercel.app/api?username=matthewhchon)
+
 ### :desktop_computer: Programming Language:
 > Java
+> 
 > HTML/CSS
 
 ### :octocat: Current Project:
