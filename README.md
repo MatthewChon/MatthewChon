@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > HTML/CSS
 
 ### :octocat: Current Project:
-> Portfolio Page [[site]](https://MatthewChon.github.io) [[code]](https://github.com/MatthewChon/MatthewChon.github.io)
+N/A
 
 ### :open_file_folder: Table Of Content
 > **:arrow_forward: Portfolio** [[site]](https://MatthewChon.github.io) [[code]](https://github.com/MatthewChon/MatthewChon.github.io)
