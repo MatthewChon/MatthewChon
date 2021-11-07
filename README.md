@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 N/A
 
 ### :open_file_folder: Table Of Content
-> **:arrow_forward: Portfolio** [[site]](https://MatthewChon.github.io) [[code]](https://github.com/MatthewChon/MatthewChon.github.io)
 >
 > **:arrow_forward: Simulation And Modelling**
 >
