@@ -1,17 +1,19 @@
-<!--
+<!-------------------------------
 **MatthewChon/MatthewChon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+  ------------------------------->
+# Biography
+- 👋 Name: `Matthew Chon`
+- 🔭 I’m currently working on `finishing my computer science degree at Queens College`
+- 🌱 I’m currently learning `data science fundamentals and probabilistic models`
+- 👯 I’m looking to collaborate on `any open source projects regarding data`
+- 🤔 I’m looking for help with `bayesian probability`
+- 💬 Ask me about `anything about mathematics. I am a math nerd 🤓`
+- 😄 Pronouns: `he/him/his`
+- ⚡ Fun fact: `I do most thing with my left but I write with my right.`
+<!-- 📫 How to reach me: ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 # Matthew's Profile Page
 
 ![](https://github-readme-stats.vercel.app/api?username=matthewchon)
