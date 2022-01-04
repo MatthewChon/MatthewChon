@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with `bayesian probability`
 - 💬 Ask me about `anything about mathematics. I am a math nerd 🤓`
 - 😄 Pronouns: `he/him/his`
-- ⚡ Fun fact: `I do most thing with my left but I write with my right.`
+- ⚡ Fun fact: `I do most things with my left but I write with my right.`
 <!-- 📫 How to reach me: ... -->
 
 
