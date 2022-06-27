@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 💬 Ask me about `anything about mathematics. I am a math nerd 🤓`  
 😄 Pronouns: `he/him/his`  
 ⚡ Fun fact: `I do most things with my left but I write with my right.`  
+📖 Currently I am reading: `The Art of Computer Programming: Volume 1`
 
 # Matthew's Profile Page
 
