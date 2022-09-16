@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 😄 Pronouns: `he/him/his`  
 ⚡ Fun fact: `I do most things with my left but I write with my right.`  
 🌱 I’m currently learning: `data structures and algorithms`  
-📖 Currently I am reading: `The Art of Computer Programming: Volume 1`  
-🔭 I’m currently working on: `becoming an aspiring software engineering`  
+📖 Currently I am reading: `N/A`  
+🔭 I’m currently working on: `aspiring to become software engineering`  
 
 # Matthew's Profile Page
 
